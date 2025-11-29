@@ -1,0 +1,8 @@
+{
+  "name": "WishFlux",
+  "description": "A social wishlist app to share desires with friends, featuring smart URL parsing and privacy controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
